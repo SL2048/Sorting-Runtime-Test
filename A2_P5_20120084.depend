@@ -1,0 +1,57 @@
+# depslib dependency file v1.0
+1490805150 source:c:\e1\hardhome\data structure\assi\assi2\a2_20120084\a2_p5_20120084\main.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+	"Sorter.h"
+	"Testbed.h"
+	"QuickSorter.h"
+	"SelectionSorter.h"
+
+1490801613 c:\e1\hardhome\data structure\assi\assi2\a2_20120084\a2_p5_20120084\include\sorter.h
+
+1490389733 c:\e1\hardhome\data structure\assi\assi2\a2_20120084\a2_p5_20120084\include\quicksorter.h
+	"Sorter.h"
+
+1490388256 c:\e1\hardhome\data structure\assi\assi2\a2_20120084\a2_p5_20120084\include\selectionsorter.h
+	"Sorter.h"
+
+1490804475 source:c:\e1\hardhome\data structure\assi\assi2\a2_20120084\a2_p5_20120084\src\testbed.cpp
+	"Testbed.h"
+
+1490804449 c:\e1\hardhome\data structure\assi\assi2\a2_20120084\a2_p5_20120084\include\testbed.h
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<iomanip>
+	<algorithm>
+	"Sorter.h"
+
+1490901803 source:c:\e1\hardhome\data structure\assi\assi2\a2_20120084\a2_p5_20120084_20120013\main.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+	"Sorter.h"
+	"Testbed.h"
+	"QuickSorter.h"
+	"SelectionSorter.h"
+
+1490801613 c:\e1\hardhome\data structure\assi\assi2\a2_20120084\a2_p5_20120084_20120013\include\sorter.h
+
+1490900483 c:\e1\hardhome\data structure\assi\assi2\a2_20120084\a2_p5_20120084_20120013\include\testbed.h
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<iomanip>
+	<algorithm>
+	"Sorter.h"
+
+1490389733 c:\e1\hardhome\data structure\assi\assi2\a2_20120084\a2_p5_20120084_20120013\include\quicksorter.h
+	"Sorter.h"
+
+1490388256 c:\e1\hardhome\data structure\assi\assi2\a2_20120084\a2_p5_20120084_20120013\include\selectionsorter.h
+	"Sorter.h"
+
+1490902215 source:c:\e1\hardhome\data structure\assi\assi2\a2_20120084\a2_p5_20120084_20120013\src\testbed.cpp
+	"Testbed.h"
+
